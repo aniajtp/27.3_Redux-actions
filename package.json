@@ -1,0 +1,19 @@
+{
+  "name": "27.3_redux-actions",
+  "version": "1.0.0",
+  "description": "actions redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniajtp/27.3_Redux-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniajtp/27.3_Redux-actions/issues"
+  },
+  "homepage": "https://github.com/aniajtp/27.3_Redux-actions#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aniajtp/27.3_Redux-actions/issues"
   },
-  "homepage": "https://github.com/aniajtp/27.3_Redux-actions#readme"
+  "homepage": "https://github.com/aniajtp/27.3_Redux-actions#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
 }
